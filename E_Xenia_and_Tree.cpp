@@ -1,6 +1,7 @@
 /*
 Xenia and Tree
 https://codeforces.com/problemset/problem/342/E
+Prerequisites: graphs, dfs, centroid decomposition
 */
 
 #include <bits/stdc++.h>
